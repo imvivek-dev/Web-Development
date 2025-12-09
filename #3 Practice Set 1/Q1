@@ -1,0 +1,23 @@
+Question: Inspect your favourite website and change something on the page which is displayed.
+
+Answer: For this task, I chose CodeWithHarry.com as my favourite website because I frequently use it to learn web development concepts. I inspected the website using Google Chrome DevTools and made temporary changes directly in the browser to see how the webpage structure works.
+
+✔ What I Did:
+
+Opened CodeWithHarry.com in Chrome.
+
+Right-clicked on the webpage → selected “Inspect”.
+
+This opened the Elements panel, where the full HTML structure of the live webpage is displayed.
+
+I located the section that contains the website title and the intro text.
+
+I modified the following parts:
+
+Changed the website title from “CodeWithHarry” to “imvivek.dev”
+
+Edited the short introductory paragraph to include my name and my description
+
+These changes were instantly visible on the page because DevTools allows real-time editing of HTML and CSS.
+
+These modifications were only temporary and worked inside my own browser. They do not change the actual website because DevTools cannot modify the server files—it only manipulates the elements locally for testing and learning.

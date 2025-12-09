@@ -1,0 +1,21 @@
+Question: Write any HTML code inside a text file. Does it work if you write it using notepad?
+
+Answer: Yes — Notepad can absolutely be used to write HTML. The browser doesn't care which editor you used; it only cares about the file's contents and filename/extension. Here's a short, practical guide and a paste-ready example.
+
+Quick steps
+
+Open Notepad.
+
+Paste this example HTML (or write your own).
+
+Choose File → Save As…
+
+File name: index.html
+
+Save as type: All Files (.) (important — otherwise Notepad will add .txt)
+
+Encoding: UTF-8 (recommended)
+
+Open the saved index.html file in any web browser (double-click it or right-click → Open with → choose a browser).
+
+(Code written on notepad is also copied here in notepad.html file)
